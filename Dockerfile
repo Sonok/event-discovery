@@ -1,7 +1,18 @@
-FROM ubuntu:20.04
+# Use Python 3.9 base image
+FROM python:3.9-slim
 
-RUN apt-get install sl
+# Set working directory
+WORKDIR /app
 
-ENV PORT=8000
+# Install dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["echo", "Docker is easy"]
+# Copy the app code
+COPY main.py .
+
+# Expose port
+EXPOSE 8000
+
+# Run the app with uvicorn
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
