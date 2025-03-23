@@ -1,0 +1,2 @@
+# eventbrite_token.py
+EVENTBRITE_OAUTH_TOKEN = "7G55I4IHYAVBVXPRUVUX"
