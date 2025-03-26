@@ -8,9 +8,12 @@ WORKDIR /app
 COPY requirements.txt .
 COPY EventbriteDemo.py .
 COPY eventbrite_token.py .
+COPY firebase-key.json . 
+COPY firebase_config.py .
+COPY user.py .
+COPY user_service.py .
+COPY test_user.py .
+
 
 # Install dependencies
 RUN pip install --no-cache-dir -r requirements.txt
-
-# Run the app
-CMD ["python", "EventbriteDemo.py"]

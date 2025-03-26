@@ -1,8 +1,7 @@
-version: "3.9"
-
 services:
-  fastapi-app:
+  app:
     build: .
-    ports:
-      - "8000:8000"
-    restart: unless-stopped
+    container_name: events-app
+    volumes:
+      - .:/app
+    command: python test_user.py
