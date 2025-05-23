@@ -31,6 +31,11 @@ def scrape_eventbrite_xhr() -> list[dict]:
         events.extend(payload.get("events", []))
     return events
 
+def format_tags(tag_str):
+    tags = tag_str.split(",")
+    cleaned = [tag.replace("_", " ").title() for tag in tags]
+    return ", ".join(cleaned)
+
 def transform(events: list[dict]) -> list[tuple]:
     """Transform: pick fields and normalize into tuples for SQL insert."""
     rows = []
@@ -47,6 +52,9 @@ def transform(events: list[dict]) -> list[tuple]:
         minp = ta.get("minimum_ticket_price", {}).get("value") or 0
         maxp = ta.get("maximum_ticket_price", {}).get("value") or 0
         free = ta.get("is_free", False)
+        raw_tags = [tag.get("display_name", "") for tag in e.get("tags", [])]
+        tags_str = format_tags(",".join(raw_tags))
+
         rows.append((
             vid,
             name,
@@ -59,13 +67,15 @@ def transform(events: list[dict]) -> list[tuple]:
             minp,
             maxp,
             int(free),
+            tags_str  # <- add tags here
         ))
     return rows
 
 def load(rows: list[tuple]):
-    """Load: create table if needed, then upsert each row into SQLite."""
     conn = sqlite3.connect(DB_PATH)
     cur = conn.cursor()
+
+    # 1. CREATE the table if it doesn't exist
     cur.execute("""
         CREATE TABLE IF NOT EXISTS events (
             id TEXT PRIMARY KEY,
@@ -78,17 +88,25 @@ def load(rows: list[tuple]):
             venue TEXT,
             min_price INTEGER,
             max_price INTEGER,
-            is_free INTEGER
+            is_free INTEGER,
+            tags TEXT
         )
     """)
-    # upsert each row
+
+    # 2. Optional: Add tags column if migrating older db (but probably redundant now)
+    # try:
+    #     cur.execute("ALTER TABLE events ADD COLUMN tags TEXT")
+    # except sqlite3.OperationalError:
+    #     pass  # Column already exists
+
+    # 3. Insert each row
     for r in rows:
         cur.execute("""
             INSERT INTO events (
                 id, name, start_date, start_time,
                 end_date, end_time, url, venue,
-                min_price, max_price, is_free
-            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                min_price, max_price, is_free, tags
+            ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ON CONFLICT(id) DO UPDATE SET
                 name=excluded.name,
                 start_date=excluded.start_date,
@@ -99,10 +117,13 @@ def load(rows: list[tuple]):
                 venue=excluded.venue,
                 min_price=excluded.min_price,
                 max_price=excluded.max_price,
-                is_free=excluded.is_free
+                is_free=excluded.is_free,
+                tags=excluded.tags
         """, r)
+
     conn.commit()
     conn.close()
+
 
 def main():
     print(" Extracting events…")
@@ -117,7 +138,7 @@ def main():
     conn = sqlite3.connect("events.db")
     cur = conn.cursor()
 
-    cur.execute("SELECT name, start_date, url FROM events LIMIT 5")
+    cur.execute("SELECT name, start_date, url, tags FROM events LIMIT 5")
     for row in cur.fetchall():
         print(row)
 
