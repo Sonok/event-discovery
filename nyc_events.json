@@ -1,0 +1,4247 @@
+[
+  {
+    "pagination": {
+      "object_count": 20,
+      "continuation": null,
+      "page_count": 1,
+      "page_size": 20,
+      "has_more_items": false,
+      "page_number": 1
+    },
+    "events": [
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#eda0a4",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1017523423%2F66299487319%2F1%2Foriginal.20250427-050857?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.46362725672&fp-y=0.0479770344534&s=246e7bd94b76a2982e11989035e9919e",
+          "id": "1017523423",
+          "crop_mask": null,
+          "aspect_ratio": "0.8",
+          "focal_point": {
+            "y": 0.0479770344534,
+            "x": 0.46362725672
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1017523423%2F66299487319%2F1%2Foriginal.20250427-050857?auto=format%2Ccompress&q=75&sharp=10&s=592f6222883e1ef4786da6da4a9473a6",
+            "width": 1080,
+            "height": 1350
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2023-08-14T00:00:00",
+            "utc": "2023-08-14T04:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-06-30T23:00:00",
+            "utc": "2025-07-01T03:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1041418650217",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "4550013695",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1041418650217",
+        "hide_end_date": false,
+        "start_date": "2025-05-24",
+        "end_time": "04:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-25",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/3008",
+            "display_name": "Hip Hop / Rap"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/11",
+            "display_name": "Party or Social Gathering"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/weekend",
+            "display_name": "weekend",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/holiday",
+            "display_name": "holiday",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/labor",
+            "display_name": "labor",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/certified",
+            "display_name": "certified",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/day",
+            "display_name": "day",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/turnup",
+            "display_name": "turnup",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/everyonefree",
+            "display_name": "everyonefree",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1041418650217",
+        "start_time": "22:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Skybar Rooftop and Lounge",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Queens",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9449466",
+            "localized_address_display": "45-06 pearson st, Queens, NY 11101",
+            "postal_code": "11101",
+            "address_1": "45-06 pearson st",
+            "address_2": "",
+            "latitude": "40.7458385",
+            "localized_multi_line_address_display": [
+              "45-06 pearson st",
+              "Queens, NY 11101"
+            ],
+            "localized_area_display": "Queens, NY"
+          },
+          "venue_profile_url": "",
+          "id": "264910683"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "City Elite Group",
+          "profile_type": "organizer",
+          "num_followers": 28416,
+          "url": "https://www.eventbrite.com/o/city-elite-group-4550013695",
+          "twitter": "@nyccompton",
+          "summary": "City Elite Group Is a Preimer Night Life Planning Company Based In New York City that executes Events for People to remember.",
+          "num_saves": null,
+          "image_id": "4803715",
+          "followed_by_you": false,
+          "facebook": "cityelitegroup",
+          "num_collections": null,
+          "id": "4550013695",
+          "website_url": "http://www.cityelitegroup.com",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "1017523423",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "264910683",
+        "checkout_flow": "widget",
+        "name": "Everyone Free Sky high Saturdays At Sky Bar Roof Top",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/everyone-free-sky-high-saturdays-at-sky-bar-roof-top-tickets-1041418650217",
+        "hide_start_date": false,
+        "summary": "Party with the best view of manhattan sky line",
+        "is_online_event": false,
+        "eid": "eqkwcwqh",
+        "published": "2024-10-07T20:13:46Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#766854",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F995971543%2F195630899014%2F1%2Foriginal.20250330-053051?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.485795454545&fp-y=0.780098280098&s=8787f752bd77132f655799a44c0f4efe",
+          "id": "995971543",
+          "crop_mask": null,
+          "aspect_ratio": "1.31",
+          "focal_point": {
+            "y": 0.780098280098,
+            "x": 0.485795454545
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F995971543%2F195630899014%2F1%2Foriginal.20250330-053051?auto=format%2Ccompress&q=75&sharp=10&s=2d4af44b9079d5dac7126c7add25deb5",
+            "width": 938,
+            "height": 716
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-30T18:00:00",
+            "utc": "2025-03-30T22:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-31T17:00:00",
+            "utc": "2025-05-31T21:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1305713406949",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "12273096474",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1305713406949",
+        "hide_end_date": false,
+        "start_date": "2025-05-31",
+        "end_time": "18:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "90.70",
+            "value": 9070,
+            "display": "90.70 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-31",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/13003",
+            "display_name": "City/Town"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/113",
+            "display_name": "Community & Culture",
+            "localized": {
+              "display_name": "Community & Culture"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/11",
+            "display_name": "Party or Social Gathering"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/free",
+            "display_name": "free",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/food",
+            "display_name": "food",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/music",
+            "display_name": "music",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/community",
+            "display_name": "community",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/beer",
+            "display_name": "beer",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/block_party",
+            "display_name": "block_party",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/street_art",
+            "display_name": "street_art",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/14th_annual",
+            "display_name": "14th_annual",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/bushwick_collective",
+            "display_name": "bushwick_collective",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1305713406949",
+        "start_time": "10:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "15 Scott Ave",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9220783",
+            "localized_address_display": "15 Scott Avenue, Brooklyn, NY 11237",
+            "postal_code": "11237",
+            "address_1": "15 Scott Avenue",
+            "address_2": "",
+            "latitude": "40.7080144",
+            "localized_multi_line_address_display": [
+              "15 Scott Avenue",
+              "Brooklyn, NY 11237"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "263202013"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "The Bushwick Collective",
+          "profile_type": "organizer",
+          "num_followers": 1150,
+          "url": "https://www.eventbrite.com/o/the-bushwick-collective-12273096474",
+          "twitter": "thebkcollective",
+          "summary": "https://www.tribecafilm.com/stories/bushwick-collective-documentary-joe-ficalora-bloc-party-street-art-graffitti-murals",
+          "num_saves": null,
+          "image_id": "778304419",
+          "followed_by_you": false,
+          "facebook": "TheBushiwckCollective",
+          "num_collections": null,
+          "id": "12273096474",
+          "website_url": null,
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "995971543",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "263202013",
+        "checkout_flow": "widget",
+        "name": "14th Annual Bushwick Collective Block Party",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/14th-annual-bushwick-collective-block-party-tickets-1305713406949",
+        "hide_start_date": false,
+        "summary": "The Bushwick Collective Block Party is a globally recognized, annual \ncelebration of art and culture in the heart of Bushwick, Brooklyn.",
+        "is_online_event": false,
+        "eid": "etckcfff",
+        "published": "2025-03-30T07:00:20Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#c3beb6",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F982233883%2F291099437342%2F1%2Foriginal.20250312-200350?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.496212121212&fp-y=0.387356321839&s=b7880c364f57d4b374de80e8e338f4a2",
+          "id": "982233883",
+          "crop_mask": null,
+          "aspect_ratio": "1.225",
+          "focal_point": {
+            "y": 0.387356321839,
+            "x": 0.496212121212
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F982233883%2F291099437342%2F1%2Foriginal.20250312-200350?auto=format%2Ccompress&q=75&sharp=10&s=ba80862aaa341623a1da01a8e5b12555",
+            "width": 2048,
+            "height": 1672
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2024-12-31T17:00:00",
+            "utc": "2024-12-31T22:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-25T20:00:00",
+            "utc": "2025-05-26T00:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1281149495629",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "18691581550",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1281149495629",
+        "hide_end_date": false,
+        "start_date": "2025-05-25",
+        "end_time": "21:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "23.18",
+            "value": 2318,
+            "display": "23.18 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": true,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-25",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/3999",
+            "display_name": "Other"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/11",
+            "display_name": "Party or Social Gathering"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/hiphop",
+            "display_name": "hiphop",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/afrobeats",
+            "display_name": "afrobeats",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/soca",
+            "display_name": "soca",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/dancehall",
+            "display_name": "dancehall",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/dayparty",
+            "display_name": "dayparty",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/thingstodonyc",
+            "display_name": "thingstodonyc",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/afrobeatsnyc",
+            "display_name": "afrobeatsnyc",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/afrocode",
+            "display_name": "afrocode",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1281149495629",
+        "start_time": "16:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Harbor NYC Rooftop",
+          "venue_profile_id": null,
+          "address": {
+            "city": "New York",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9976374",
+            "localized_address_display": "621 West 46th Street, New York, NY 10036",
+            "postal_code": "10036",
+            "address_1": "621 West 46th Street",
+            "address_2": "",
+            "latitude": "40.76401389999999",
+            "localized_multi_line_address_display": [
+              "621 West 46th Street",
+              "New York, NY 10036"
+            ],
+            "localized_area_display": "New York, NY"
+          },
+          "venue_profile_url": "",
+          "id": "260381193"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "@AfroCode_ | AfroCode Nation",
+          "profile_type": "organizer",
+          "num_followers": 27789,
+          "url": "https://www.eventbrite.com/o/afrocode-afrocode-nation-18691581550",
+          "twitter": null,
+          "summary": "Click here to subscribe to our text messages.AfroCode Nation - HipHop Meets AfroBeats; Soca and Zouk. Bridging The Culture. Music; Events; TechnologyContact us @ 202-321-5324",
+          "num_saves": null,
+          "image_id": "56127660",
+          "followed_by_you": false,
+          "facebook": "afrocode1",
+          "num_collections": null,
+          "id": "18691581550",
+          "website_url": null,
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "982233883",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "260381193",
+        "checkout_flow": "widget",
+        "name": "AfroCode NYC Memorial Day Sunday Day Party [Sun May 25]",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/afrocode-nyc-memorial-day-sunday-day-party-sun-may-25-tickets-1281149495629",
+        "hide_start_date": false,
+        "summary": "#AfroCodeNYC | Day Party",
+        "is_online_event": false,
+        "eid": "erytmpwc",
+        "published": "2025-03-12T20:11:55Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#3c4131",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F949194783%2F165609966285%2F1%2Foriginal.20250131-040802?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494163424125&fp-y=0.490272373541&s=69191d62e7f3f6e70aa7fd1614d0d099",
+          "id": "949194783",
+          "crop_mask": null,
+          "aspect_ratio": "1",
+          "focal_point": {
+            "y": 0.490272373541,
+            "x": 0.494163424125
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F949194783%2F165609966285%2F1%2Foriginal.20250131-040802?auto=format%2Ccompress&q=75&sharp=10&s=84908141008fdfe58ac584133ff93236",
+            "width": 1500,
+            "height": 1500
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-01-02T00:00:00",
+            "utc": "2025-01-02T05:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-27T15:00:00",
+            "utc": "2025-05-27T19:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1229537823729",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "9789186973",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1229537823729",
+        "hide_end_date": false,
+        "start_date": "2025-05-26",
+        "end_time": "21:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 2,
+            "collections": [
+              {
+                "status": "live",
+                "_type": "event_group",
+                "name": "2025 NYC Rooftop Parties",
+                "relative_url": "/cc/2025-nyc-rooftop-parties-3149179",
+                "is_autocreated": false,
+                "absolute_url": "https://www.eventbrite.com/cc/2025-nyc-rooftop-parties-3149179",
+                "summary": "2025 Rooftop Parties in NYC . Everyone  Free entry with RSVP!\n\nCelebrate Your Birthday! B\ufeffirthday Person Free All Night, C\ufeffomplimentary bottle of champagne and more. For any questions please text 7\ufeff18-285-2833. Click the event below",
+                "organization_id": "165609966285",
+                "image_id": "708731939",
+                "id": "3149179",
+                "organizer_id": "9789186973",
+                "event_ids": [
+                  "829099156897",
+                  "829126328167",
+                  "829227059457",
+                  "838790654427",
+                  "851787899537",
+                  "851797528337",
+                  "851802102017",
+                  "853577562467",
+                  "853579618617",
+                  "853581544377",
+                  "853583209357",
+                  "853584974637",
+                  "853587592467",
+                  "863764371487",
+                  "863768664327",
+                  "863772515847",
+                  "868767255247",
+                  "868770003467",
+                  "870943434257",
+                  "873298157297",
+                  "873300052967",
+                  "1229535235989",
+                  "1229537823729",
+                  "1229538214899",
+                  "1229540100539",
+                  "1298069684369",
+                  "1351968477109",
+                  "1351981596349",
+                  "1351984966429",
+                  "1351985307449"
+                ],
+                "type": "collection",
+                "slug": "2025-nyc-rooftop-parties",
+                "is_private": false
+              },
+              {
+                "status": "live",
+                "_type": "event_group",
+                "name": "Memorial Day Weekend 2025 in NYC",
+                "relative_url": "/cc/memorial-day-weekend-2025-in-nyc-3151959",
+                "is_autocreated": false,
+                "absolute_url": "https://www.eventbrite.com/cc/memorial-day-weekend-2025-in-nyc-3151959",
+                "summary": "Memorial Day Weekend 2025 in NYC . Everyone  Free entry with RSVP!\n\nCelebrate Your Birthday! B\ufeffirthday Person Free All Night and more. For any questions please text 7\ufeff18-285-2833. Click the event below",
+                "organization_id": "165609966285",
+                "image_id": "709109929",
+                "id": "3151959",
+                "organizer_id": "9789186973",
+                "event_ids": [
+                  "1229535235989",
+                  "1229537823729",
+                  "1229538214899",
+                  "1229538846789",
+                  "1229540100539",
+                  "1229540752489",
+                  "1234736252369",
+                  "1357372169699"
+                ],
+                "type": "collection",
+                "slug": "memorial-day-weekend-2025-in-nyc",
+                "is_private": false
+              }
+            ]
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "215.26",
+            "value": 21526,
+            "display": "215.26 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-26",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/3008",
+            "display_name": "Hip Hop / Rap"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/11",
+            "display_name": "Party or Social Gathering"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/drinks",
+            "display_name": "drinks",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/party",
+            "display_name": "party",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/hiphop",
+            "display_name": "hiphop",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/rooftop",
+            "display_name": "rooftop",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/nyc",
+            "display_name": "nyc",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/reggae",
+            "display_name": "reggae",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/hip_hop",
+            "display_name": "hip_hop",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/rooftop_party",
+            "display_name": "rooftop_party",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1229537823729",
+        "start_time": "15:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "The DL",
+          "venue_profile_id": null,
+          "address": {
+            "city": "New York",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.989333",
+            "localized_address_display": "95 Delancey Street, New York, NY 10002",
+            "postal_code": "10002",
+            "address_1": "95 Delancey Street",
+            "address_2": "",
+            "latitude": "40.718558",
+            "localized_multi_line_address_display": [
+              "95 Delancey Street",
+              "New York, NY 10002"
+            ],
+            "localized_area_display": "New York, NY"
+          },
+          "venue_profile_url": "",
+          "id": "93910169"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Run The City LLC",
+          "profile_type": "organizer",
+          "num_followers": 50233,
+          "url": "https://www.eventbrite.com/o/run-the-city-llc-9789186973",
+          "twitter": null,
+          "summary": "Click here to subscribe to our text messages.NYC Nightlife + Entertainment",
+          "num_saves": null,
+          "image_id": null,
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "9789186973",
+          "website_url": null,
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "949194783",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "93910169",
+        "checkout_flow": "widget",
+        "name": "Memorial Day Weekend 2000's Rooftop Party   @ The DL",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/memorial-day-weekend-2000s-rooftop-party-the-dl-tickets-1229537823729",
+        "hide_start_date": false,
+        "summary": "Monday May 26th Memorial Day Weekend Rooftop 2000's Rooftop Party Everyone free entry with rsvp @ The DL Rooftop",
+        "is_online_event": false,
+        "eid": "erpdmwyz",
+        "published": "2025-01-31T04:09:28Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#708534",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1006893383%2F158005865591%2F1%2Foriginal.20250411-165214?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.645833333333&fp-y=0.571428571429&s=21883ecddb134b24947398e594fbd17c",
+          "id": "1006893383",
+          "crop_mask": null,
+          "aspect_ratio": "1.5",
+          "focal_point": {
+            "y": 0.571428571429,
+            "x": 0.645833333333
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1006893383%2F158005865591%2F1%2Foriginal.20250411-165214?auto=format%2Ccompress&q=75&sharp=10&s=e1d8f85e08205010dd03b1c885494c59",
+            "width": 1618,
+            "height": 1080
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-17T00:00:00",
+            "utc": "2025-03-17T04:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-30T12:00:00",
+            "utc": "2025-05-30T16:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1262587245439",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "15679243764",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1262587245439",
+        "hide_end_date": false,
+        "start_date": "2025-06-05",
+        "end_time": "17:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "15.71",
+            "value": 1571,
+            "display": "15.71 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-06-08",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/7001",
+            "display_name": "Personal health"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/107",
+            "display_name": "Health & Wellness",
+            "localized": {
+              "display_name": "Health & Wellness"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/1",
+            "display_name": "Conference"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/resilience",
+            "display_name": "resilience",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/growtogether",
+            "display_name": "growtogether",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/planting_seeds",
+            "display_name": "planting_seeds",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/national_event",
+            "display_name": "national_event",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/conference_2025",
+            "display_name": "conference_2025",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1262587245439",
+        "start_time": "12:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "CUNY Graduate Center",
+          "venue_profile_id": null,
+          "address": {
+            "city": "New York",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.98387830000001",
+            "localized_address_display": "365 5th Avenue, New York, NY 10016",
+            "postal_code": "10016",
+            "address_1": "365 5th Avenue",
+            "address_2": "",
+            "latitude": "40.7485794",
+            "localized_multi_line_address_display": [
+              "365 5th Avenue",
+              "New York, NY 10016"
+            ],
+            "localized_area_display": "New York, NY"
+          },
+          "venue_profile_url": "",
+          "id": "50084644"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "NYC Parks GreenThumb",
+          "profile_type": "organizer",
+          "num_followers": 2258,
+          "url": "https://www.eventbrite.com/o/nyc-parks-greenthumb-15679243764",
+          "twitter": null,
+          "summary": "To find out about upcoming workshops, activities, and public programs from GreenThumb and for registration, please visit theGreenThumb website. For the latest updates on our workshops,subscribeto Gree...",
+          "num_saves": null,
+          "image_id": "253864139",
+          "followed_by_you": false,
+          "facebook": "GreenThumbNYC",
+          "num_collections": null,
+          "id": "15679243764",
+          "website_url": "http://nyc.gov/parks/greenthumb",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "1006893383",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "50084644",
+        "checkout_flow": "widget",
+        "name": "2025 National GrowTogether Conference: Planting Seeds of Resilience",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/2025-national-growtogether-conference-planting-seeds-of-resilience-tickets-1262587245439",
+        "hide_start_date": false,
+        "summary": "A free inspiring four-day gathering of community gardeners  to celebrate the power of urban green spaces and community gardening.",
+        "is_online_event": false,
+        "eid": "etdcywrx",
+        "published": "2025-04-03T19:24:12Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#ba4e57",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F996771363%2F2569518370411%2F1%2Foriginal.20250331-152747?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=eaa3785335c5ee505ce6769507c6e79f",
+          "id": "996771363",
+          "crop_mask": null,
+          "aspect_ratio": "2",
+          "focal_point": {
+            "y": 0.5,
+            "x": 0.5
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F996771363%2F2569518370411%2F1%2Foriginal.20250331-152747?auto=format%2Ccompress&q=75&sharp=10&s=b479289c92fb035079ff5837577c4d76",
+            "width": 2160,
+            "height": 1080
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2024-04-17T18:00:00",
+            "utc": "2024-04-17T22:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-06-08T23:30:00",
+            "utc": "2025-06-09T03:30:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1290309042079",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "105655500371",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1290309042079",
+        "hide_end_date": false,
+        "start_date": "2025-06-08",
+        "end_time": "00:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "39.94",
+            "value": 3994,
+            "display": "39.94 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "39.94",
+            "value": 3994,
+            "display": "39.94 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-06-09",
+        "tags": [
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/6",
+            "display_name": "Concert or Performance"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/music",
+            "display_name": "music",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/celebration",
+            "display_name": "celebration",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/event",
+            "display_name": "event",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/brooklyn",
+            "display_name": "brooklyn",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/club",
+            "display_name": "club",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/nyc",
+            "display_name": "nyc",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/everydaypeople",
+            "display_name": "everydaypeople",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1290309042079",
+        "start_time": "16:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Elsewhere",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.923169",
+            "localized_address_display": "599 Johnson Avenue, Brooklyn, NY 11237",
+            "postal_code": "11237",
+            "address_1": "599 Johnson Avenue",
+            "address_2": "",
+            "latitude": "40.709411",
+            "localized_multi_line_address_display": [
+              "599 Johnson Avenue",
+              "Brooklyn, NY 11237"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "265394053"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Elsewhere",
+          "profile_type": "organizer",
+          "num_followers": 1885,
+          "url": "https://www.eventbrite.com/o/elsewhere-105655500371",
+          "twitter": "elsewherespace",
+          "summary": "Elsewhere is a multi-room music venue, nightclub, and arts space in Bushwick, Brooklyn. Our focus is underground and unbound music, presented with love.",
+          "num_saves": null,
+          "image_id": "941144193",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "105655500371",
+          "website_url": "https://www.elsewhere.club/",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "996771363",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "265394053",
+        "checkout_flow": "widget",
+        "name": "Everyday People",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/everyday-people-tickets-1290309042079",
+        "hide_start_date": false,
+        "summary": "Join us for Everyday People @ Elsewhere in Brooklyn!",
+        "is_online_event": false,
+        "eid": "erzmpwpx",
+        "published": "2025-04-01T12:00:28Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#346fb6",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1015382503%2F2569518370411%2F1%2Foriginal.20250423-203139?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b58a50599ca532e69431fc0bb74dd5e0",
+          "id": "1015382503",
+          "crop_mask": null,
+          "aspect_ratio": "2",
+          "focal_point": {
+            "y": 0.5,
+            "x": 0.5
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1015382503%2F2569518370411%2F1%2Foriginal.20250423-203139?auto=format%2Ccompress&q=75&sharp=10&s=3638a6e3e08adf3499ba6f2076f7499b",
+            "width": 2160,
+            "height": 1080
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-11T00:00:00",
+            "utc": "2025-03-11T04:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-31T04:00:00",
+            "utc": "2025-05-31T08:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1292984584699",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "105655500371",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1292984584699",
+        "hide_end_date": false,
+        "start_date": "2025-05-30",
+        "end_time": "04:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 1,
+            "collections": [
+              {
+                "status": "live",
+                "_type": "event_group",
+                "name": "selling quickly",
+                "relative_url": "/cc/selling-quickly-4049343",
+                "is_autocreated": false,
+                "absolute_url": "https://www.eventbrite.com/cc/selling-quickly-4049343",
+                "summary": "the hottest shows + parties @ elsewhere",
+                "organization_id": "2569518481181",
+                "image_id": "957384143",
+                "id": "4049343",
+                "organizer_id": "105655500371",
+                "event_ids": [
+                  "1207877326599",
+                  "1218497411559",
+                  "1221003136249",
+                  "1221066184829",
+                  "1223765829539",
+                  "1224102556699",
+                  "1226583868369",
+                  "1228840297409",
+                  "1235090953289",
+                  "1253026829979",
+                  "1256907186229",
+                  "1264016741099",
+                  "1264469154279",
+                  "1269385679739",
+                  "1273124572869",
+                  "1273815539569",
+                  "1273976992479",
+                  "1279862626569",
+                  "1292984584699",
+                  "1299846318329",
+                  "1316520481199",
+                  "1333124464159"
+                ],
+                "type": "collection",
+                "slug": "selling-quickly",
+                "is_private": false
+              }
+            ]
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "46.67",
+            "value": 4667,
+            "display": "46.67 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "29.15",
+            "value": 2915,
+            "display": "29.15 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-31",
+        "tags": [
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/6",
+            "display_name": "Concert or Performance"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/music",
+            "display_name": "music",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/party",
+            "display_name": "party",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/event",
+            "display_name": "event",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/techno",
+            "display_name": "techno",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/anime",
+            "display_name": "anime",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/bushwick",
+            "display_name": "bushwick",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/dance_party",
+            "display_name": "dance_party",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/underground_music",
+            "display_name": "underground_music",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/queer_friendly",
+            "display_name": "queer_friendly",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/manga_lovers",
+            "display_name": "manga_lovers",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1292984584699",
+        "start_time": "22:30",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Elsewhere",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.923169",
+            "localized_address_display": "599 Johnson Avenue, Brooklyn, NY 11237",
+            "postal_code": "11237",
+            "address_1": "599 Johnson Avenue",
+            "address_2": "",
+            "latitude": "40.709411",
+            "localized_multi_line_address_display": [
+              "599 Johnson Avenue",
+              "Brooklyn, NY 11237"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "261552923"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Elsewhere",
+          "profile_type": "organizer",
+          "num_followers": 1885,
+          "url": "https://www.eventbrite.com/o/elsewhere-105655500371",
+          "twitter": "elsewherespace",
+          "summary": "Elsewhere is a multi-room music venue, nightclub, and arts space in Bushwick, Brooklyn. Our focus is underground and unbound music, presented with love.",
+          "num_saves": null,
+          "image_id": "941144193",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "105655500371",
+          "website_url": "https://www.elsewhere.club/",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "1015382503",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "261552923",
+        "checkout_flow": "widget",
+        "name": "EARGASM GOD, BIIANCO, Starjunk 95, nextdimensional, ECFM",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/eargasm-god-biianco-starjunk-95-nextdimensional-ecfm-tickets-1292984584699",
+        "hide_start_date": false,
+        "summary": "Join us for EARGASM GOD, Starjunk 95+ more @ Elsewhere in Brooklyn!",
+        "is_online_event": false,
+        "eid": "erzxfmrz",
+        "published": "2025-03-25T15:00:09Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#e75804",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1000457483%2F2569518370411%2F1%2Foriginal.20250403-212344?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.550189393939&fp-y=0.544776119403&s=ca75c3e810e8d25972d4814ca001fa9f",
+          "id": "1000457483",
+          "crop_mask": null,
+          "aspect_ratio": "2",
+          "focal_point": {
+            "y": 0.544776119403,
+            "x": 0.550189393939
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1000457483%2F2569518370411%2F1%2Foriginal.20250403-212344?auto=format%2Ccompress&q=75&sharp=10&s=12ea4ca51a602af0cc4259d83f3da746",
+            "width": 2160,
+            "height": 1080
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2022-01-28T23:00:00",
+            "utc": "2022-01-29T04:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-06-01T22:00:00",
+            "utc": "2025-06-02T02:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1312231593019",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "105655500371",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1312231593019",
+        "hide_end_date": false,
+        "start_date": "2025-06-01",
+        "end_time": "22:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "39.94",
+            "value": 3994,
+            "display": "39.94 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "33.33",
+            "value": 3333,
+            "display": "33.33 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-06-01",
+        "tags": [
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/6",
+            "display_name": "Concert or Performance"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/food",
+            "display_name": "food",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/dj",
+            "display_name": "dj",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/summer",
+            "display_name": "summer",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/rooftop",
+            "display_name": "rooftop",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/rnb",
+            "display_name": "rnb",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/ribs",
+            "display_name": "ribs",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/djset",
+            "display_name": "djset",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/rnbmusic",
+            "display_name": "rnbmusic",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/hip_hop",
+            "display_name": "hip_hop",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/outdoor_event",
+            "display_name": "outdoor_event",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1312231593019",
+        "start_time": "16:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Elsewhere - The Rooftop",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.923169",
+            "localized_address_display": "599 Johnson Avenue, Brooklyn, NY 11237",
+            "postal_code": "11237",
+            "address_1": "599 Johnson Avenue",
+            "address_2": "",
+            "latitude": "40.709411",
+            "localized_multi_line_address_display": [
+              "599 Johnson Avenue",
+              "Brooklyn, NY 11237"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "264163203"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Elsewhere",
+          "profile_type": "organizer",
+          "num_followers": 1885,
+          "url": "https://www.eventbrite.com/o/elsewhere-105655500371",
+          "twitter": "elsewherespace",
+          "summary": "Elsewhere is a multi-room music venue, nightclub, and arts space in Bushwick, Brooklyn. Our focus is underground and unbound music, presented with love.",
+          "num_saves": null,
+          "image_id": "941144193",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "105655500371",
+          "website_url": "https://www.elsewhere.club/",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "1000457483",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "264163203",
+        "checkout_flow": "widget",
+        "name": "R&B and Ribs",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/rb-and-ribs-tickets-1312231593019",
+        "hide_start_date": false,
+        "summary": "Join us for R&B and Ribs on The Rooftop @ Elsewhere in Brooklyn!",
+        "is_online_event": false,
+        "eid": "etddfxzm",
+        "published": "2025-04-03T21:26:29Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#1d0c2b",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1007213883%2F1961150010723%2F1%2Foriginal.20250412-002228?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=52e897b645adb881006ee1295877f9d8",
+          "id": "1007213883",
+          "crop_mask": null,
+          "aspect_ratio": "1.965",
+          "focal_point": {
+            "y": 0.005,
+            "x": 0.005
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1007213883%2F1961150010723%2F1%2Foriginal.20250412-002228?auto=format%2Ccompress&q=75&sharp=10&s=6b0f942f069683ad0103e711370290fa",
+            "width": 1920,
+            "height": 978
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-02T23:00:00",
+            "utc": "2025-03-03T04:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-06-03T15:00:00",
+            "utc": "2025-06-03T19:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1278909686299",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "77223374983",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1278909686299",
+        "hide_end_date": false,
+        "start_date": "2025-06-03",
+        "end_time": "16:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "165.00",
+            "value": 16500,
+            "display": "165.00 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "18.42",
+            "value": 1842,
+            "display": "18.42 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": true,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-06-03",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/1001",
+            "display_name": "Startups & Small Business"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/101",
+            "display_name": "Business & Professional",
+            "localized": {
+              "display_name": "Business & Professional"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/1",
+            "display_name": "Conference"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/networking",
+            "display_name": "networking",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/tech",
+            "display_name": "tech",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/technology",
+            "display_name": "technology",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/workshops",
+            "display_name": "workshops",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/conference",
+            "display_name": "conference",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/startups",
+            "display_name": "startups",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/careers",
+            "display_name": "careers",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/expo",
+            "display_name": "expo",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/seminars",
+            "display_name": "seminars",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/business_networking",
+            "display_name": "business_networking",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1278909686299",
+        "start_time": "10:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "26 Bridge St",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9848854",
+            "localized_address_display": "26 Bridge Street, Brooklyn, NY 11201",
+            "postal_code": "11201",
+            "address_1": "26 Bridge Street",
+            "address_2": "",
+            "latitude": "40.7039741",
+            "localized_multi_line_address_display": [
+              "26 Bridge Street",
+              "Brooklyn, NY 11201"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "259995803"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Pulse NYC",
+          "profile_type": "organizer",
+          "num_followers": 256,
+          "url": "https://www.eventbrite.com/o/pulse-nyc-77223374983",
+          "twitter": null,
+          "summary": "At Pulse NYC, we are your go-to source for the latest and most exciting developments in the ever-evolving world of technology right here in the heart of New York City since 2012. In the past, we\u2019ve or...",
+          "num_saves": null,
+          "image_id": "671024179",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "77223374983",
+          "website_url": "https://pulse.nyc",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "1007213883",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "259995803",
+        "checkout_flow": "widget",
+        "name": "Annual BROOKLYN TECH EXPO - JUNE 3, 2025",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/annual-brooklyn-tech-expo-june-3-2025-tickets-1278909686299",
+        "hide_start_date": false,
+        "summary": "Largest expo-conference event in Brooklyn with focus on AI, technology, innovative businesses, seminars, networking! Part of NY Tech Week.",
+        "is_online_event": false,
+        "eid": "eryhxcrh",
+        "published": "2025-03-11T03:57:42Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#1e2317",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F977852523%2F559617690179%2F1%2Foriginal.20250307-121809?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=bcd928e2450d54a0a09c2747662b230a",
+          "id": "977852523",
+          "crop_mask": {
+            "width": 2160,
+            "height": 1080,
+            "top_left": {
+              "y": 0,
+              "x": 0
+            }
+          },
+          "aspect_ratio": "2",
+          "focal_point": null,
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F977852523%2F559617690179%2F1%2Foriginal.20250307-121809?auto=format%2Ccompress&q=75&sharp=10&s=97b5a3816ac2905dc0b007f4b1092ae3",
+            "width": 2160,
+            "height": 1080
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-07T07:00:00",
+            "utc": "2025-03-07T12:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-06-06T18:00:00",
+            "utc": "2025-06-06T22:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1269187025559",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "33927007183",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1269187025559",
+        "hide_end_date": false,
+        "start_date": "2025-06-07",
+        "end_time": "12:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 1,
+            "collections": [
+              {
+                "status": "live",
+                "_type": "event_group",
+                "name": "Runna's First to Fast Race Series",
+                "relative_url": "/cc/runnas-first-to-fast-race-series-4131093",
+                "is_autocreated": false,
+                "absolute_url": "https://www.eventbrite.com/cc/runnas-first-to-fast-race-series-4131093",
+                "summary": "Runna's all-new race series. First to Fast is designed for every runner \u2013 whether you\u2019re tackling your first-ever 5K or pushing for a new PB, it's about bringing runners together, pushing limits, and celebrating every achievement along the way.",
+                "organization_id": "559617696221",
+                "image_id": "980608313",
+                "id": "4131093",
+                "organizer_id": "33927007183",
+                "event_ids": [
+                  "1266977918059",
+                  "1269187025559"
+                ],
+                "type": "collection",
+                "slug": "runnas-first-to-fast-race-series",
+                "is_private": false
+              }
+            ]
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "35.00",
+            "value": 3500,
+            "display": "35.00 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "35.00",
+            "value": 3500,
+            "display": "35.00 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-06-07",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/8001",
+            "display_name": "Running"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/108",
+            "display_name": "Sports & Fitness",
+            "localized": {
+              "display_name": "Sports & Fitness"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/15",
+            "display_name": "Race or Endurance Event"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/new_york_city",
+            "display_name": "new_york_city",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/fitness_challenge",
+            "display_name": "fitness_challenge",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/runnas_first_5k_nyc",
+            "display_name": "runnas_first_5k_nyc",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/fast_run",
+            "display_name": "fast_run",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/speed_race",
+            "display_name": "speed_race",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1269187025559",
+        "start_time": "09:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Icahn Stadium",
+          "venue_profile_id": null,
+          "address": {
+            "city": "New York",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.92441219999999",
+            "localized_address_display": "10 Central Road, New York, NY 10035",
+            "postal_code": "10035",
+            "address_1": "10 Central Road",
+            "address_2": "",
+            "latitude": "40.7929771",
+            "localized_multi_line_address_display": [
+              "10 Central Road",
+              "New York, NY 10035"
+            ],
+            "localized_area_display": "New York, NY"
+          },
+          "venue_profile_url": "",
+          "id": "259065233"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Runna",
+          "profile_type": "organizer",
+          "num_followers": 4133,
+          "url": "https://www.eventbrite.co.uk/o/runna-33927007183",
+          "twitter": null,
+          "summary": null,
+          "num_saves": null,
+          "image_id": "264369999",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "33927007183",
+          "website_url": "https://www.runna.com/",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "977852523",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "259065233",
+        "checkout_flow": "widget",
+        "name": "Runna's First to Fast 5K New York City",
+        "language": "en-us",
+        "url": "https://www.eventbrite.co.uk/e/runnas-first-to-fast-5k-new-york-city-tickets-1269187025559",
+        "hide_start_date": false,
+        "summary": "Celebrate your First, Chase your Fast.",
+        "is_online_event": false,
+        "eid": "erxhgwkx",
+        "published": "2025-03-04T17:00:24Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#c5bfa3",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F975101493%2F2569518370411%2F1%2Foriginal.20250304-185847?w=400&auto=format%2Ccompress&q=75&sharp=10&s=158ca15e59f483040b680f0b7e0edaef",
+          "id": "975101493",
+          "crop_mask": null,
+          "aspect_ratio": "2",
+          "focal_point": null,
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F975101493%2F2569518370411%2F1%2Foriginal.20250304-185847?auto=format%2Ccompress&q=75&sharp=10&s=fbd4de16b289f99c7b3e03351d519fe5",
+            "width": 2160,
+            "height": 1080
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2022-01-26T00:00:00",
+            "utc": "2022-01-26T05:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-29T22:00:00",
+            "utc": "2025-05-30T02:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1269385679739",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "105655500371",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1269385679739",
+        "hide_end_date": false,
+        "start_date": "2025-05-29",
+        "end_time": "22:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 2,
+            "collections": [
+              {
+                "status": "live",
+                "_type": "event_group",
+                "name": "rooftop @ elsewhere",
+                "relative_url": "/cc/rooftop-elsewhere-4161203",
+                "is_autocreated": false,
+                "absolute_url": "https://www.eventbrite.com/cc/rooftop-elsewhere-4161203",
+                "summary": "shows and parties on the elsewhere rooftop",
+                "organization_id": "2569518481181",
+                "image_id": "986897043",
+                "id": "4161203",
+                "organizer_id": "105655500371",
+                "event_ids": [
+                  "1221615728529",
+                  "1253215885449",
+                  "1259963106569",
+                  "1269253775209",
+                  "1269385679739",
+                  "1271164550389",
+                  "1271182865169",
+                  "1271190156979",
+                  "1271228672179",
+                  "1271255873539",
+                  "1271439703379",
+                  "1272623504159",
+                  "1272776050429",
+                  "1272831947619",
+                  "1273035586709",
+                  "1273039528499",
+                  "1273047502349",
+                  "1273060862309",
+                  "1273072908339",
+                  "1273095014459",
+                  "1273124572869",
+                  "1273808608839",
+                  "1273815539569",
+                  "1273975167019",
+                  "1273976992479",
+                  "1273980573189",
+                  "1273985678459",
+                  "1273992047509",
+                  "1274011224869",
+                  "1274033541619",
+                  "1274101825859",
+                  "1279391457289",
+                  "1279460774619",
+                  "1280196826169",
+                  "1297438155449",
+                  "1301201802619",
+                  "1301260648629",
+                  "1306912242699",
+                  "1317541595379",
+                  "1317548475959",
+                  "1317687521849",
+                  "1317767491039",
+                  "1318947299879",
+                  "1318957490359",
+                  "1318961181399",
+                  "1318979456059",
+                  "1318990388759",
+                  "1319334548149",
+                  "1320048323069",
+                  "1320057380159",
+                  "1320059005019",
+                  "1320067008959",
+                  "1320077781179",
+                  "1320081111139",
+                  "1320088643669",
+                  "1320093066899",
+                  "1320099094929",
+                  "1320106065779",
+                  "1320117359559",
+                  "1320122294319",
+                  "1320137931089",
+                  "1320144761519"
+                ],
+                "type": "collection",
+                "slug": "rooftop-elsewhere",
+                "is_private": false
+              },
+              {
+                "status": "live",
+                "_type": "event_group",
+                "name": "selling quickly",
+                "relative_url": "/cc/selling-quickly-4049343",
+                "is_autocreated": false,
+                "absolute_url": "https://www.eventbrite.com/cc/selling-quickly-4049343",
+                "summary": "the hottest shows + parties @ elsewhere",
+                "organization_id": "2569518481181",
+                "image_id": "957384143",
+                "id": "4049343",
+                "organizer_id": "105655500371",
+                "event_ids": [
+                  "1207877326599",
+                  "1218497411559",
+                  "1221003136249",
+                  "1221066184829",
+                  "1223765829539",
+                  "1224102556699",
+                  "1226583868369",
+                  "1228840297409",
+                  "1235090953289",
+                  "1253026829979",
+                  "1256907186229",
+                  "1264016741099",
+                  "1264469154279",
+                  "1269385679739",
+                  "1273124572869",
+                  "1273815539569",
+                  "1273976992479",
+                  "1279862626569",
+                  "1292984584699",
+                  "1299846318329",
+                  "1316520481199",
+                  "1333124464159"
+                ],
+                "type": "collection",
+                "slug": "selling-quickly",
+                "is_private": false
+              }
+            ]
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "39.94",
+            "value": 3994,
+            "display": "39.94 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "33.33",
+            "value": 3333,
+            "display": "33.33 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-29",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/3009",
+            "display_name": "Indie"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/6",
+            "display_name": "Concert or Performance"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/concert",
+            "display_name": "concert",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/summer",
+            "display_name": "summer",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/rooftop",
+            "display_name": "rooftop",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/performance",
+            "display_name": "performance",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/indie",
+            "display_name": "indie",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1269385679739",
+        "start_time": "19:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Elsewhere - The Rooftop",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.923169",
+            "localized_address_display": "599 Johnson Avenue, Brooklyn, NY 11237",
+            "postal_code": "11237",
+            "address_1": "599 Johnson Avenue",
+            "address_2": "",
+            "latitude": "40.709411",
+            "localized_multi_line_address_display": [
+              "599 Johnson Avenue",
+              "Brooklyn, NY 11237"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "258906953"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Elsewhere",
+          "profile_type": "organizer",
+          "num_followers": 1885,
+          "url": "https://www.eventbrite.com/o/elsewhere-105655500371",
+          "twitter": "elsewherespace",
+          "summary": "Elsewhere is a multi-room music venue, nightclub, and arts space in Bushwick, Brooklyn. Our focus is underground and unbound music, presented with love.",
+          "num_saves": null,
+          "image_id": "941144193",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "105655500371",
+          "website_url": "https://www.elsewhere.club/",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "975101493",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "258906953",
+        "checkout_flow": "widget",
+        "name": "Christopher Owens, Sean Nicholas Savage",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/christopher-owens-sean-nicholas-savage-tickets-1269385679739",
+        "hide_start_date": false,
+        "summary": "Join us for Christopher Owens on The Rooftop @ Elsewhere in Brooklyn!",
+        "is_online_event": false,
+        "eid": "erxhtxrc",
+        "published": "2025-03-13T19:00:07Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#bdbcc1",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1034004783%2F31579698239%2F1%2Foriginal.20250519-142410?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.653409090909&fp-y=0.774011299435&s=1ebeba04a55f038309ae1d52b7298250",
+          "id": "1034004783",
+          "crop_mask": null,
+          "aspect_ratio": "1.515",
+          "focal_point": {
+            "y": 0.774011299435,
+            "x": 0.653409090909
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1034004783%2F31579698239%2F1%2Foriginal.20250519-142410?auto=format%2Ccompress&q=75&sharp=10&s=c96a7bf3937fe21abda4397f4853d427",
+            "width": 2048,
+            "height": 1356
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-07T12:00:00",
+            "utc": "2025-03-07T17:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-24T20:30:00",
+            "utc": "2025-05-25T00:30:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1265717076849",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "2194997173",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1265717076849",
+        "hide_end_date": false,
+        "start_date": "2025-05-24",
+        "end_time": "23:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 1,
+            "collections": [
+              {
+                "status": "live",
+                "_type": "event_group",
+                "name": "Fun With Friends",
+                "relative_url": "/cc/fun-with-friends-1986009",
+                "is_autocreated": false,
+                "absolute_url": "https://www.eventbrite.com/cc/fun-with-friends-1986009",
+                "summary": "It\u2019s go time! No stopping the FUN all \u201825! Are yall ready to pop out to it all, FRIENDS?!",
+                "organization_id": "31579698239",
+                "image_id": "1017442663",
+                "id": "1986009",
+                "organizer_id": "2194997173",
+                "event_ids": [
+                  "601060015687",
+                  "601860329447",
+                  "602752317407",
+                  "608786044447",
+                  "649264195687",
+                  "654334671617",
+                  "680607233557",
+                  "682308772907",
+                  "682747575377",
+                  "717789356287",
+                  "720504296747",
+                  "722799862847",
+                  "729759378947",
+                  "740566413077",
+                  "752364260757",
+                  "761434580327",
+                  "769015495047",
+                  "791524570297",
+                  "818598318607",
+                  "853647922917",
+                  "853784571637",
+                  "860514681577",
+                  "860849021597",
+                  "878475322337",
+                  "880556095987",
+                  "893672056177",
+                  "917709131717",
+                  "923307205707",
+                  "928425935967",
+                  "932479600587",
+                  "936785830637",
+                  "947179648827",
+                  "966465844357",
+                  "982903309257",
+                  "995910022687",
+                  "1027579266247",
+                  "1032607345367",
+                  "1040188671317",
+                  "1049642096767",
+                  "1057694596009",
+                  "1091604491419",
+                  "1096872287539",
+                  "1140982502379",
+                  "1246479938049",
+                  "1265717076849",
+                  "1274806503569",
+                  "1312028906779",
+                  "1338104730269",
+                  "1339208792549",
+                  "1352483457429"
+                ],
+                "type": "collection",
+                "slug": "fun-with-friends",
+                "is_private": false
+              }
+            ]
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "138.89",
+            "value": 13889,
+            "display": "138.89 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "56.28",
+            "value": 5628,
+            "display": "56.28 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-24",
+        "tags": [
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/5",
+            "display_name": "Festival or Fair"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/music",
+            "display_name": "music",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/party",
+            "display_name": "party",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/summer",
+            "display_name": "summer",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/brooklyn",
+            "display_name": "brooklyn",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/livemusic",
+            "display_name": "livemusic",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/dayparty",
+            "display_name": "dayparty",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/thingstodoinnyc",
+            "display_name": "thingstodoinnyc",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/livedj",
+            "display_name": "livedj",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/memorialdayweekend",
+            "display_name": "memorialdayweekend",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/may",
+            "display_name": "may",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1265717076849",
+        "start_time": "14:30",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Duggal Greenhouse (enter through Sands St. Gate at...)",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9802503",
+            "localized_address_display": "26 Navy St, Brooklyn, NY 11205",
+            "postal_code": "11205",
+            "address_1": "26 Navy St",
+            "address_2": "",
+            "latitude": "40.700308",
+            "localized_multi_line_address_display": [
+              "26 Navy St",
+              "Brooklyn, NY 11205"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "266787483"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Fun With Friends LLC",
+          "profile_type": "organizer",
+          "num_followers": 10272,
+          "url": "https://www.eventbrite.com/o/fun-with-friends-llc-2194997173",
+          "twitter": "fwfnyc",
+          "summary": "Fun With Friends is a community based lifestyle brand. We strive to cultivate growth, relationships and genuine connections through events.",
+          "num_saves": null,
+          "image_id": "16139079",
+          "followed_by_you": false,
+          "facebook": "fwfnyc",
+          "num_collections": null,
+          "id": "2194997173",
+          "website_url": "http://fwfnyc.com",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "1034004783",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "266787483",
+        "checkout_flow": "widget",
+        "name": "Fun With Friends Carnival",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/fun-with-friends-carnival-tickets-1265717076849",
+        "hide_start_date": false,
+        "summary": "We\u2019re starting summer off right, get your tickets now!",
+        "is_online_event": false,
+        "eid": "erxyxhbx",
+        "published": "2025-03-07T16:47:51Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#2e168a",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F958312993%2F128592229387%2F1%2Foriginal.20250211-191549?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.282101167315&fp-y=0.475734374532&s=a16219152fde6b7bfa5e73b116422906",
+          "id": "958312993",
+          "crop_mask": null,
+          "aspect_ratio": "2",
+          "focal_point": {
+            "y": 0.475734374532,
+            "x": 0.282101167315
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F958312993%2F128592229387%2F1%2Foriginal.20250211-191549?auto=format%2Ccompress&q=75&sharp=10&s=9c89b093ac65136558ffcbcf161e7c4c",
+            "width": 2880,
+            "height": 1440
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-03T00:00:00",
+            "utc": "2025-03-03T05:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-06-03T09:00:00",
+            "utc": "2025-06-03T13:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1246352015429",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "31372385135",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1246352015429",
+        "hide_end_date": false,
+        "start_date": "2025-06-03",
+        "end_time": "19:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "192.84",
+            "value": 19284,
+            "display": "192.84 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "150.16",
+            "value": 15016,
+            "display": "150.16 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-06-03",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/4999",
+            "display_name": "Other"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/104",
+            "display_name": "Film, Media & Entertainment",
+            "localized": {
+              "display_name": "Film, Media & Entertainment"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/1",
+            "display_name": "Conference"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/publishing",
+            "display_name": "publishing",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/literature",
+            "display_name": "literature",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/authors",
+            "display_name": "authors",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/us",
+            "display_name": "us",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/bookshow",
+            "display_name": "bookshow",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1246352015429",
+        "start_time": "09:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "New York Academy of Medicine",
+          "venue_profile_id": null,
+          "address": {
+            "city": "New York",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.95238259999999",
+            "localized_address_display": "1216 5th Avenue, New York, NY 10029",
+            "postal_code": "10029",
+            "address_1": "1216 5th Avenue",
+            "address_2": "",
+            "latitude": "40.7921",
+            "localized_multi_line_address_display": [
+              "1216 5th Avenue",
+              "New York, NY 10029"
+            ],
+            "localized_area_display": "New York, NY"
+          },
+          "venue_profile_url": "",
+          "id": "255160233"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "U.S. Book Show from Publishers Weekly",
+          "profile_type": "organizer",
+          "num_followers": 69,
+          "url": "https://www.eventbrite.com/o/us-book-show-from-publishers-weekly-31372385135",
+          "twitter": null,
+          "summary": null,
+          "num_saves": null,
+          "image_id": "958333813",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "31372385135",
+          "website_url": "https://www.publishersweekly.com",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "958312993",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "255160233",
+        "checkout_flow": "widget",
+        "name": "U.S. Book Show",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/us-book-show-tickets-1246352015429",
+        "hide_start_date": false,
+        "summary": "Join us at the U.S. Book Show for a day of learning, thought-leadership and networking for the entire publishing community.",
+        "is_online_event": false,
+        "eid": "erqzrrkx",
+        "published": "2025-02-11T22:47:21Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#838893",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F996823423%2F2569518370411%2F1%2Foriginal.20250331-160917?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.553977272727&fp-y=0.565298507463&s=7ead870281f01ef40fc60aa27fbc9c16",
+          "id": "996823423",
+          "crop_mask": null,
+          "aspect_ratio": "2",
+          "focal_point": {
+            "y": 0.565298507463,
+            "x": 0.553977272727
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F996823423%2F2569518370411%2F1%2Foriginal.20250331-160917?auto=format%2Ccompress&q=75&sharp=10&s=df037febbdc06895d534d45135e5b060",
+            "width": 2160,
+            "height": 1080
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-01T00:00:00",
+            "utc": "2025-03-01T05:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-30T21:30:00",
+            "utc": "2025-05-31T01:30:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1306956334579",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "105655500371",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1306956334579",
+        "hide_end_date": false,
+        "start_date": "2025-05-30",
+        "end_time": "22:30",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "46.67",
+            "value": 4667,
+            "display": "46.67 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "33.33",
+            "value": 3333,
+            "display": "33.33 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-30",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/3008",
+            "display_name": "Hip Hop / Rap"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/6",
+            "display_name": "Concert or Performance"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/concert",
+            "display_name": "concert",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/brooklyn",
+            "display_name": "brooklyn",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/nyc",
+            "display_name": "nyc",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/elsewhere",
+            "display_name": "elsewhere",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/riovaz",
+            "display_name": "riovaz",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1306956334579",
+        "start_time": "19:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Elsewhere - The Hall",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.923169",
+            "localized_address_display": "599 Johnson Avenue, Brooklyn, NY 11237",
+            "postal_code": "11237",
+            "address_1": "599 Johnson Avenue",
+            "address_2": "",
+            "latitude": "40.709411",
+            "localized_multi_line_address_display": [
+              "599 Johnson Avenue",
+              "Brooklyn, NY 11237"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "263376103"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Elsewhere",
+          "profile_type": "organizer",
+          "num_followers": 1885,
+          "url": "https://www.eventbrite.com/o/elsewhere-105655500371",
+          "twitter": "elsewherespace",
+          "summary": "Elsewhere is a multi-room music venue, nightclub, and arts space in Bushwick, Brooklyn. Our focus is underground and unbound music, presented with love.",
+          "num_saves": null,
+          "image_id": "941144193",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "105655500371",
+          "website_url": "https://www.elsewhere.club/",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "996823423",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "263376103",
+        "checkout_flow": "widget",
+        "name": "Riovaz, Frankie Scoca",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/riovaz-frankie-scoca-tickets-1306956334579",
+        "hide_start_date": false,
+        "summary": "Join us for Riovaz in The Hall @ Elsewhere in Brooklyn!",
+        "is_online_event": false,
+        "eid": "etcmwtzc",
+        "published": "2025-04-01T17:00:20Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": null,
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F991597253%2F2633840636391%2F1%2Foriginal.20250324-211147?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C560%2C280&s=16ae48a011b123ed01686d9c3d573b3a",
+          "id": "991597253",
+          "crop_mask": {
+            "width": 560,
+            "height": 280,
+            "top_left": {
+              "y": 0,
+              "x": 0
+            }
+          },
+          "aspect_ratio": "2",
+          "focal_point": null,
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F991597253%2F2633840636391%2F1%2Foriginal.20250324-211147?auto=format%2Ccompress&q=75&sharp=10&s=cb7a6941ba3310cddbf89b98ab650fa3",
+            "width": 560,
+            "height": 448
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2024-11-21T00:30:00",
+            "utc": "2024-11-21T05:30:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-23T19:00:00",
+            "utc": "2025-05-23T23:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1285712152659",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "1373401985",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1285712152659",
+        "hide_end_date": false,
+        "start_date": "2025-05-23",
+        "end_time": "22:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "62.19",
+            "value": 6219,
+            "display": "62.19 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "62.19",
+            "value": 6219,
+            "display": "62.19 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": false,
+          "is_sold_out": true
+        },
+        "end_date": "2025-05-23",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/5005",
+            "display_name": "Opera"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/105",
+            "display_name": "Performing & Visual Arts",
+            "localized": {
+              "display_name": "Performing & Visual Arts"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/6",
+            "display_name": "Concert or Performance"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/brooklyn",
+            "display_name": "brooklyn",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/nyc",
+            "display_name": "nyc",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/opera",
+            "display_name": "opera",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/sunset",
+            "display_name": "sunset",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/death",
+            "display_name": "death",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/cemetery",
+            "display_name": "cemetery",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/diva",
+            "display_name": "diva",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/classical_music",
+            "display_name": "classical_music",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/callassoftware",
+            "display_name": "callassoftware",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1285712152659",
+        "start_time": "19:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "The Green-Wood Cemetery",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9940634",
+            "localized_address_display": "500 25th Street, Brooklyn, NY 11232",
+            "postal_code": "11232",
+            "address_1": "500 25th Street",
+            "address_2": "",
+            "latitude": "40.6579777",
+            "localized_multi_line_address_display": [
+              "500 25th Street",
+              "Brooklyn, NY 11232"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "260671123"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "The Green-Wood Cemetery",
+          "profile_type": "organizer",
+          "num_followers": 8604,
+          "url": "https://www.eventbrite.com.au/o/the-green-wood-cemetery-1373401985",
+          "twitter": "greenwoodhf",
+          "summary": "The Green-Wood Historic Fund's mission is to maintain Green-Wood's monuments and buildings of historical, cultural and architectural significance; advance public knowledge and appreciation of this sig...",
+          "num_saves": null,
+          "image_id": "5236255",
+          "followed_by_you": false,
+          "facebook": "historicgreenwood",
+          "num_collections": null,
+          "id": "1373401985",
+          "website_url": "https://www.green-wood.com",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "991597253",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "260671123",
+        "checkout_flow": "widget",
+        "name": "Cocktails, Comestibles, and Callas",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com.au/e/cocktails-comestibles-and-callas-tickets-1285712152659",
+        "hide_start_date": false,
+        "summary": "Join us as we honor one of the greatest artists in Operatic history, with a one of a kind, one night only celebration worthy of La Callas.",
+        "is_online_event": false,
+        "eid": "eryzzqwx",
+        "published": "2025-03-14T07:15:48Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#5047b6",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F981932463%2F5166372213%2F1%2Foriginal.20250312-155057?w=400&auto=format%2Ccompress&q=75&sharp=10&s=dff5003915c234cc54d01871def8eae6",
+          "id": "981932463",
+          "crop_mask": null,
+          "aspect_ratio": "2",
+          "focal_point": null,
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F981932463%2F5166372213%2F1%2Foriginal.20250312-155057?auto=format%2Ccompress&q=75&sharp=10&s=b4c8362e39edd88c8b2f656b2d100fd6",
+            "width": 2160,
+            "height": 1080
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-25T09:00:00",
+            "utc": "2025-03-25T13:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-06-06T23:30:00",
+            "utc": "2025-06-07T03:30:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1262525801659",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "76011410203",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1262525801659",
+        "hide_end_date": false,
+        "start_date": "2025-06-14",
+        "end_time": "17:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "55.20",
+            "value": 5520,
+            "display": "55.20 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "55.20",
+            "value": 5520,
+            "display": "55.20 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-06-14",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/1010",
+            "display_name": "Career"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/101",
+            "display_name": "Business & Professional",
+            "localized": {
+              "display_name": "Business & Professional"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/1",
+            "display_name": "Conference"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/inspiration",
+            "display_name": "inspiration",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/conference",
+            "display_name": "conference",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/newyorkcity",
+            "display_name": "newyorkcity",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/2025",
+            "display_name": "2025",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/hercampus",
+            "display_name": "hercampus",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1262525801659",
+        "start_time": "09:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Lavan Midtown New York",
+          "venue_profile_id": null,
+          "address": {
+            "city": "New York",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9997881",
+            "localized_address_display": "641 West 42nd Street, New York, NY 10036",
+            "postal_code": "10036",
+            "address_1": "641 West 42nd Street",
+            "address_2": "",
+            "latitude": "40.7616549",
+            "localized_multi_line_address_display": [
+              "641 West 42nd Street",
+              "New York, NY 10036"
+            ],
+            "localized_area_display": "New York, NY"
+          },
+          "venue_profile_url": "",
+          "id": "267750103"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Her Campus",
+          "profile_type": "organizer",
+          "num_followers": 302,
+          "url": "https://www.eventbrite.com/o/her-campus-76011410203",
+          "twitter": null,
+          "summary": null,
+          "num_saves": null,
+          "image_id": "980089763",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "76011410203",
+          "website_url": "https://www.hercampus.com/",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "981932463",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "267750103",
+        "checkout_flow": "widget",
+        "name": "Her Conference 2025",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/her-conference-2025-tickets-1262525801659",
+        "hide_start_date": false,
+        "summary": "Her Conference is Her Campus\u2019s annual mega event in NYC, empowering Gen Z  in every aspect of their lives.",
+        "is_online_event": false,
+        "eid": "erzcdktx",
+        "published": "2025-03-14T15:59:23Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#3c331f",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F999596753%2F250977627979%2F1%2Foriginal.20250403-030950?w=200&auto=format%2Ccompress&q=75&sharp=10&s=3beaab8397f7932435c79c0f07b4e358",
+          "id": "999596753",
+          "crop_mask": null,
+          "aspect_ratio": "1",
+          "focal_point": null,
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F999596753%2F250977627979%2F1%2Foriginal.20250403-030950?auto=format%2Ccompress&q=75&sharp=10&s=2d599a3ce01fdc9234aad9162d83f8af",
+            "width": 3000,
+            "height": 3000
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-04-02T14:00:00",
+            "utc": "2025-04-02T18:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-25T22:00:00",
+            "utc": "2025-05-26T02:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1311277308729",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "29178510767",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1311277308729",
+        "hide_end_date": false,
+        "start_date": "2025-05-25",
+        "end_time": "21:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 1,
+            "collections": [
+              {
+                "status": "live",
+                "_type": "event_group",
+                "name": "Rum and Music Events",
+                "relative_url": "/cc/rum-and-music-events-850979",
+                "is_autocreated": false,
+                "absolute_url": "https://www.eventbrite.com/cc/rum-and-music-events-850979",
+                "summary": "Rum and Music Events",
+                "organization_id": "250977627979",
+                "image_id": "319625829",
+                "id": "850979",
+                "organizer_id": "29178510767",
+                "event_ids": [
+                  "380638358577",
+                  "386058630757",
+                  "442990906727",
+                  "500864417957",
+                  "588296770477",
+                  "624944023397",
+                  "635890945937",
+                  "673059187147",
+                  "715556006277",
+                  "738210426257",
+                  "748886077417",
+                  "794959654727",
+                  "859008747287",
+                  "862437914017",
+                  "864365860557",
+                  "875692017397",
+                  "897037893487",
+                  "910310823177",
+                  "915092234507",
+                  "923393483767",
+                  "1015828760167",
+                  "1049951421967",
+                  "1057661065719",
+                  "1204813803519",
+                  "1303782040179",
+                  "1311277308729",
+                  "1321114712669",
+                  "1333091796449",
+                  "1371597688609"
+                ],
+                "type": "collection",
+                "slug": "rum-and-music-events",
+                "is_private": false
+              }
+            ]
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "73.31",
+            "value": 7331,
+            "display": "73.31 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "51.20",
+            "value": 5120,
+            "display": "51.20 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-25",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/3005",
+            "display_name": "Cultural"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/5",
+            "display_name": "Festival or Fair"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/party",
+            "display_name": "party",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/caribbean",
+            "display_name": "caribbean",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/brooklyn",
+            "display_name": "brooklyn",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/afrobeats",
+            "display_name": "afrobeats",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/soca",
+            "display_name": "soca",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/sunset",
+            "display_name": "sunset",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/newyorkcity",
+            "display_name": "newyorkcity",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/island_vibes",
+            "display_name": "island_vibes",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/rum_and_music",
+            "display_name": "rum_and_music",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/magic_of_fiji",
+            "display_name": "magic_of_fiji",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1311277308729",
+        "start_time": "14:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Major R. Owens Health & Wellness Community Center",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9550745",
+            "localized_address_display": "1561 Bedford Avenue, Brooklyn, NY 11225",
+            "postal_code": "11225",
+            "address_1": "1561 Bedford Avenue",
+            "address_2": "",
+            "latitude": "40.6687009",
+            "localized_multi_line_address_display": [
+              "1561 Bedford Avenue",
+              "Brooklyn, NY 11225"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "263982703"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Rum and Music Events",
+          "profile_type": "organizer",
+          "num_followers": 4043,
+          "url": "https://www.eventbrite.com/o/rum-and-music-events-29178510767",
+          "twitter": null,
+          "summary": "www.Rumandmusic.com",
+          "num_saves": null,
+          "image_id": "428038989",
+          "followed_by_you": false,
+          "facebook": "16626355",
+          "num_collections": null,
+          "id": "29178510767",
+          "website_url": "http://www.rumandmusic.com",
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "999596753",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "263982703",
+        "checkout_flow": "widget",
+        "name": "Rum and Music \"Sunset\" The Magic of Fiji",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/rum-and-music-sunset-the-magic-of-fiji-tickets-1311277308729",
+        "hide_start_date": false,
+        "summary": "Get ready for an electrifying tropical escape in the heart of Brooklyn! Rum and Music: Sunset \u2013 The Magic of Fiji is more than just an event",
+        "is_online_event": false,
+        "eid": "etczxcdz",
+        "published": "2025-04-03T03:30:06Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#573615",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1027092903%2F165609966285%2F1%2Foriginal.20250509-110039?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.480544747082&fp-y=0.206225680934&s=2c646ab32c885f73db30b98d6cd8d5b3",
+          "id": "1027092903",
+          "crop_mask": null,
+          "aspect_ratio": "1",
+          "focal_point": {
+            "y": 0.206225680934,
+            "x": 0.480544747082
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1027092903%2F165609966285%2F1%2Foriginal.20250509-110039?auto=format%2Ccompress&q=75&sharp=10&s=471a2f433acadf6d18764c5077135667",
+            "width": 750,
+            "height": 750
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2024-11-03T00:50:00",
+            "utc": "2024-11-03T04:50:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-24T00:00:00",
+            "utc": "2025-05-24T04:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1256450470179",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "9789186973",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1256450470179",
+        "hide_end_date": false,
+        "start_date": "2025-05-23",
+        "end_time": "04:00",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "215.26",
+            "value": 21526,
+            "display": "215.26 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-24",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/3008",
+            "display_name": "Hip Hop / Rap"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/103",
+            "display_name": "Music",
+            "localized": {
+              "display_name": "Music"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/11",
+            "display_name": "Party or Social Gathering"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/drinks",
+            "display_name": "drinks",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/party",
+            "display_name": "party",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/nyc",
+            "display_name": "nyc",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/bottlespecials",
+            "display_name": "bottlespecials",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1256450470179",
+        "start_time": "23:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Polygon Brooklyn",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9341108",
+            "localized_address_display": "299 Vandervoort Avenue, Brooklyn, NY 11211",
+            "postal_code": "11211",
+            "address_1": "299 Vandervoort Avenue",
+            "address_2": "",
+            "latitude": "40.7154812",
+            "localized_multi_line_address_display": [
+              "299 Vandervoort Avenue",
+              "Brooklyn, NY 11211"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "98251949"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Run The City LLC",
+          "profile_type": "organizer",
+          "num_followers": 50233,
+          "url": "https://www.eventbrite.com/o/run-the-city-llc-9789186973",
+          "twitter": null,
+          "summary": "Click here to subscribe to our text messages.NYC Nightlife + Entertainment",
+          "num_saves": null,
+          "image_id": null,
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "9789186973",
+          "website_url": null,
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "1027092903",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "98251949",
+        "checkout_flow": "widget",
+        "name": "Memorial Day Soca vs Reggae at Polygon BK",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/memorial-day-soca-vs-reggae-at-polygon-bk-tickets-1256450470179",
+        "hide_start_date": false,
+        "summary": "Friday May 23rd Memorial Day Soca vs Reggae at Polygon BK. Everyone free entry with RSVP.",
+        "is_online_event": false,
+        "eid": "ertqkfmm",
+        "published": "2025-02-21T12:22:25Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#b5b8b7",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F957999893%2F1074485040503%2F1%2Foriginal.20250211-143343?w=400&auto=format%2Ccompress&q=75&sharp=10&s=2d4e3f9a1eca1dfc19c6165832c4ab1e",
+          "id": "957999893",
+          "crop_mask": null,
+          "aspect_ratio": "2",
+          "focal_point": null,
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F957999893%2F1074485040503%2F1%2Foriginal.20250211-143343?auto=format%2Ccompress&q=75&sharp=10&s=bfc854aed8dccae702f96a257d3a2d14",
+            "width": 800,
+            "height": 400
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2024-12-09T00:00:00",
+            "utc": "2024-12-09T05:00:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-30T07:00:00",
+            "utc": "2025-05-30T11:00:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1227018769169",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "18011338952",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1227018769169",
+        "hide_end_date": false,
+        "start_date": "2025-05-30",
+        "end_time": "17:40",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "375.00",
+            "value": 37500,
+            "display": "375.00 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-30",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/7003",
+            "display_name": "Medical"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/107",
+            "display_name": "Health & Wellness",
+            "localized": {
+              "display_name": "Health & Wellness"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/1",
+            "display_name": "Conference"
+          }
+        ],
+        "eventbrite_event_id": "1227018769169",
+        "start_time": "08:15",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Virtual or Onsite at Hospital for Special Surgery",
+          "venue_profile_id": null,
+          "address": {
+            "city": "New York",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.95237639999999",
+            "localized_address_display": "535 East 70th Street, New York, NY 10021",
+            "postal_code": "10021",
+            "address_1": "535 East 70th Street",
+            "address_2": "",
+            "latitude": "40.7649072",
+            "localized_multi_line_address_display": [
+              "535 East 70th Street",
+              "New York, NY 10021"
+            ],
+            "localized_area_display": "New York, NY"
+          },
+          "venue_profile_url": "",
+          "id": "252991143"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "HSS Office of Continuing Medical Education and HSS eAcademy\u00ae",
+          "profile_type": "organizer",
+          "num_followers": 2726,
+          "url": "https://www.eventbrite.com/o/hss-office-of-continuing-medical-education-and-hss-eacademy-18011338952",
+          "twitter": "HSSProfEd",
+          "summary": "Earn CME and CEU credit and access didactic lectures, surgical videos, conversations with experts, and more. HSS eAcademy\u00aehas curated one of the largest portfolios of on-demand musculoskeletal content...",
+          "num_saves": null,
+          "image_id": "53347313",
+          "followed_by_you": false,
+          "facebook": null,
+          "num_collections": null,
+          "id": "18011338952",
+          "website_url": null,
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "957999893",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "252991143",
+        "checkout_flow": "widget",
+        "name": "Osseointegration for Amputees: Prosthetics, Rehabilitation, and Surgery",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/osseointegration-for-amputees-prosthetics-rehabilitation-and-surgery-registration-1227018769169",
+        "hide_start_date": false,
+        "summary": "Education for Certified Orthotists and Prosthetists (CPOs) from HSS, the world\u2019s #1 hospital in orthopaedics.",
+        "is_online_event": false,
+        "eid": "1227018769169",
+        "published": "2025-02-05T17:50:14Z"
+      },
+      {
+        "image": {
+          "edge_color_set": true,
+          "edge_color": "#231917",
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1020460643%2F140826931972%2F1%2Foriginal.20250430-200331?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.359858310584&fp-y=0.765613441847&s=70e247a55d1d1dff985967b6f496228f",
+          "id": "1020460643",
+          "crop_mask": null,
+          "aspect_ratio": "1.775",
+          "focal_point": {
+            "y": 0.765613441847,
+            "x": 0.359858310584
+          },
+          "original": {
+            "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1020460643%2F140826931972%2F1%2Foriginal.20250430-200331?auto=format%2Ccompress&q=75&sharp=10&s=00cc34b52dfe1a97f21b86f5a1ba01f2",
+            "width": 1600,
+            "height": 900
+          }
+        },
+        "saves": {
+          "saved_by_you": false
+        },
+        "event_sales_status": {
+          "start_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-03-02T10:15:00",
+            "utc": "2025-03-02T15:15:00Z"
+          },
+          "end_sales_date": {
+            "timezone": "America/New_York",
+            "local": "2025-05-29T19:30:00",
+            "utc": "2025-05-29T23:30:00Z"
+          },
+          "default_message": null,
+          "sales_status": "on_sale",
+          "currency": "USD",
+          "message_code": null,
+          "message": null,
+          "message_type": null
+        },
+        "timezone": "America/New_York",
+        "id": "1345790498609",
+        "privacy_setting": "unlocked",
+        "tickets_by": "Eventbrite",
+        "primary_organizer_id": "8137730134",
+        "tickets_url": "https://www.eventbrite.com/checkout-external?eid=1345790498609",
+        "hide_end_date": false,
+        "start_date": "2025-05-29",
+        "end_time": "22:15",
+        "status": "live",
+        "_type": "destination_event",
+        "public_collections": {
+          "creator_collections": {
+            "object_count": 0,
+            "collections": []
+          }
+        },
+        "ticket_availability": {
+          "maximum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "minimum_ticket_price": {
+            "currency": "USD",
+            "major_value": "0.00",
+            "value": 0,
+            "display": "0.00 USD"
+          },
+          "is_free": false,
+          "has_bogo_tickets": false,
+          "has_available_tickets": true,
+          "is_sold_out": false
+        },
+        "end_date": "2025-05-29",
+        "tags": [
+          {
+            "prefix": "EventbriteSubCategory",
+            "tag": "EventbriteSubCategory/4002",
+            "display_name": "Film"
+          },
+          {
+            "prefix": "EventbriteCategory",
+            "tag": "EventbriteCategory/104",
+            "display_name": "Film, Media & Entertainment",
+            "localized": {
+              "display_name": "Film, Media & Entertainment"
+            }
+          },
+          {
+            "prefix": "EventbriteFormat",
+            "tag": "EventbriteFormat/7",
+            "display_name": "Screening"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/event",
+            "display_name": "event",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/openingnight",
+            "display_name": "openingnight",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/shortfilms",
+            "display_name": "shortfilms",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/mean",
+            "display_name": "mean",
+            "prefix": "OrganizerTag"
+          },
+          {
+            "_type": "tag",
+            "tag": "OrganizerTag/2024",
+            "display_name": "2024",
+            "prefix": "OrganizerTag"
+          }
+        ],
+        "eventbrite_event_id": "1345790498609",
+        "start_time": "19:00",
+        "primary_venue": {
+          "_type": "destination_venue",
+          "name": "Fort Greene Park",
+          "venue_profile_id": null,
+          "address": {
+            "city": "Brooklyn",
+            "country": "US",
+            "region": "NY",
+            "longitude": "-73.9758623",
+            "localized_address_display": "North Portland Avenue & Myrtle Avenue, Brooklyn, NY 11205",
+            "postal_code": "11205",
+            "address_1": "North Portland Avenue & Myrtle Avenue",
+            "address_2": "",
+            "latitude": "40.6933634",
+            "localized_multi_line_address_display": [
+              "North Portland Avenue & Myrtle Avenue",
+              "Brooklyn, NY 11205"
+            ],
+            "localized_area_display": "Brooklyn, NY"
+          },
+          "venue_profile_url": "",
+          "id": "96650189"
+        },
+        "primary_organizer": {
+          "_type": "destination_profile",
+          "num_upcoming_events": null,
+          "name": "Rooftop Films",
+          "profile_type": "organizer",
+          "num_followers": 23888,
+          "url": "https://www.eventbrite.com/o/rooftop-films-8137730134",
+          "twitter": "RooftopFilms",
+          "summary": "At Rooftop Films we believe film can be so much more than just watching a movie, so we curate unique events that combine great music, quality film, and some of the most beautiful locations that New Yo...",
+          "num_saves": null,
+          "image_id": "275303839",
+          "followed_by_you": false,
+          "facebook": "RooftopFilmsInc",
+          "num_collections": null,
+          "id": "8137730134",
+          "website_url": null,
+          "num_following": null
+        },
+        "series_id": null,
+        "image_id": "1020460643",
+        "is_protected_event": false,
+        "is_cancelled": null,
+        "primary_venue_id": "96650189",
+        "checkout_flow": "widget",
+        "name": "In the Mood for Love",
+        "language": "en-us",
+        "url": "https://www.eventbrite.com/e/in-the-mood-for-love-tickets-1345790498609",
+        "hide_start_date": false,
+        "summary": "Hong Kong, 1962: Two neighbors form a quiet bond after suspecting their spouses are having an affair.",
+        "is_online_event": false,
+        "eid": "ethybhph",
+        "published": "2025-04-30T20:06:17Z"
+      }
+    ]
+  }
+]

@@ -1,3 +1,3 @@
-eventbrite_token.py
-venv/
-# Ignore the secret eventbrite token file
+eventbrite_token.py # Ignore the secret eventbrite token file
+venv/ #ignores venv for isolated scripts this is useful 
+# Purge and rebuild as needed for localized testing 
