@@ -1,3 +1,6 @@
 fastapi
 uvicorn[standard]
 requests
+playwright
+psycopg2-binary
+SQLAlchemy
