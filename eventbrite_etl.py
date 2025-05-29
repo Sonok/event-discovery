@@ -1,8 +1,5 @@
 # etl.py
-
-import json
-import sqlite3      # swap for psycopg2 or sqlalchemy for Postgres
-from playwright.sync_api import sync_playwright
+`
 
 DB_PATH = "events.db"  # or "postgresql://user:pass@host/dbname"
 SCRAPE_URL = "https://www.eventbrite.com/d/ny--new-york/all-events/"

@@ -6,3 +6,11 @@ services:
     ports:
       - "8000:8000"
     restart: unless-stopped
+
+  docs:
+    image: squidfunk/mkdocs-material
+    ports:
+      - "8001:8000"        # Host 8001 → Container 8000
+    volumes:
+      - .:/docs            # Mount your project into the container
+    command: mkdocs serve  # Start the docs dev server

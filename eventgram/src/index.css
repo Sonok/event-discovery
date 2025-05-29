@@ -1,0 +1,68 @@
+/* src/index.css */
+
+/* 1️⃣ Import a clean, modern font */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 2️⃣ Base layer: background, font & resets */
+@layer base {
+  html {
+    @apply bg-gray-50;          /* light background like IG feed */
+  }
+  body {
+    @apply m-0 p-0;
+    font-family: 'Inter', system-ui, sans-serif;
+    color: #262626;             /* default IG text color */
+  }
+}
+
+/* 3️⃣ Component layer: “stories” ring & post cards */
+@layer components {
+  /* Story ring gradient around avatar */
+  .story-ring {
+    @apply p-0.5 rounded-full
+           bg-gradient-to-tr
+           from-yellow-400
+           via-pink-500
+           to-purple-600;
+  }
+
+  /* Card container mimicking Instagram post */
+  .post-card {
+    @apply bg-white
+           border
+           border-gray-200
+           rounded-lg
+           overflow-hidden
+           shadow-sm;
+  }
+
+  /* Header inside each post */
+  .post-header {
+    @apply flex items-center p-4 gap-3;
+  }
+  .post-avatar {
+    @apply w-10 h-10 rounded-full bg-gray-300;
+  }
+
+  /* Image placeholder area */
+  .post-image {
+    @apply w-full h-60 bg-gray-200 flex items-center justify-center;
+  }
+
+  /* Footer / description */
+  .post-footer {
+    @apply px-4 py-2 text-sm text-gray-600;
+  }
+}
+
+/* 4️⃣ Utility layer: small tweaks */
+@layer utilities {
+  /* remove link underlines by default */
+  .no-underline {
+    @apply no-underline;
+  }
+}
