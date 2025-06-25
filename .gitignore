@@ -1,0 +1,10 @@
+# Ignore virtual environment
+venv/
+
+# Other common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+.env
