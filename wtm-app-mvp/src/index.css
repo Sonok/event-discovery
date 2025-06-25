@@ -1,3 +1,19 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* Global light-mode defaults */
+body {
+  background-color: #fcf9f8;
+  font-family: "Plus Jakarta Sans", "Noto Sans", sans-serif;
+}
+
+/* Placeholder blank slate for dark mode until styled */
+.dark body {
+  background-color: #ffffff;
+  color: #ffffff;
+}
+.dark * {
+  background-color: #ffffff !important;
+  color: #ffffff !important;
+}
