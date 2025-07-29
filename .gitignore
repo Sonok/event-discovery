@@ -10,4 +10,4 @@ __pycache__/
 .env
 
 # node & ignore frontend 
-node_modules
+node_modulesbackend/app/firebase/firebase-key.json
