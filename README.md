@@ -224,6 +224,107 @@ flowchart TD
 
 Please adhere to existing code style and write tests where applicable.
 
+Here's the structure I'm aiming for right now
+
+
+wtm/
+├── README.md
+├── .env
+├── docker-compose.yml
+│
+├── frontend/
+│   ├── tailwind.config.js
+│   ├── package.json
+│   ├── public/
+│   └── src/
+│       ├── assets/
+│       ├── components/
+│       │   ├── common/
+│       │   ├── auth/
+│       │   │   ├── LoginForm.tsx
+│       │   │   ├── RegisterForm.tsx
+│       │   │   └── OAuthButtons.tsx
+│       │   ├── quiz/
+│       │   │   ├── QuestionCard.tsx
+│       │   │   └── ResultSummary.tsx
+│       │   └── events/
+│       │       ├── EventCard.tsx
+│       │       └── EventList.tsx
+│       ├── pages/
+│       │   ├── Intro.tsx
+│       │   ├── Onboarding.tsx
+│       │   ├── Dashboard.tsx
+│       │   ├── Profile.tsx
+│       │   ├── Login.tsx
+│       │   └── Register.tsx
+│       ├── api/
+│       │   ├── auth.ts
+│       │   ├── quiz.ts
+│       │   └── events.ts
+│       ├── auth/
+│       │   ├── firebase.ts
+│       │   └── useAuth.ts
+│       ├── context/
+│       │   ├── UserContext.tsx
+│       │   └── QuizContext.tsx
+│       ├── App.tsx
+│       └── index.tsx
+│
+├── backend/
+│   ├── requirements.txt
+│   ├── .env
+│   └── app/
+│       ├── __init__.py
+│       ├── main.py
+│       ├── utils.py
+│       ├── models/
+│       │   ├── __init__.py
+│       │   ├── user.py
+│       │   ├── assessment.py
+│       │   └── event.py
+│       ├── api/
+│       │   ├── __init__.py
+│       │   ├── auth.py
+│       │   ├── users.py
+│       │   ├── assessment.py
+│       │   └── events.py          # GET /events/recommended
+│       ├── db/
+│       │   ├── __init__.py
+│       │   ├── session.py
+│       │   ├── schemas.py
+│       │   └── crud.py
+│       ├── services/
+│       │   ├── auth_service.py
+│       │   ├── quiz_service.py
+│       │   ├── event_service.py
+│       │   └── recommendation_service.py
+│       └── firebase/
+│           ├── __init__.py
+│           ├── config.py
+│           └── verify_token.py
+│
+├── etl/                                # 🔁 NEW: ETL system
+│   ├── __init__.py
+│   ├── run_etl.py                      # Entrypoint: runs the ETL
+│   ├── eventbrite.py                   # Pulls data from Eventbrite API
+│   ├── transform.py                    # Cleans and enriches data
+│   ├── load.py                         # Loads into DB
+│   ├── utils.py                        # Helpers (dedupe, logging, etc.)
+│   └── cronjob.sh                      # Optional shell script for scheduling
+│
+├── shared/
+│   └── quiz-schema.json                # JSON structure for the branching quiz
+│
+├── scripts/
+│   ├── seed_events.py
+│   └── analyze_results.py
+│
+└── infra/
+    ├── Dockerfile.frontend
+    ├── Dockerfile.backend
+    └── nginx.conf
+
+
 ---
 
 ## License
