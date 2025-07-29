@@ -225,8 +225,7 @@ flowchart TD
 Please adhere to existing code style and write tests where applicable.
 
 Here's the structure I'm aiming for right now
-
-
+```text
 wtm/
 ├── README.md
 ├── .env
@@ -323,6 +322,8 @@ wtm/
     ├── Dockerfile.frontend
     ├── Dockerfile.backend
     └── nginx.conf
+```
+
 
 
 ---
