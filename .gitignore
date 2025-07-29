@@ -8,3 +8,6 @@ __pycache__/
 *.pyd
 *.DS_Store
 .env
+
+# node & ignore frontend 
+node_modules
