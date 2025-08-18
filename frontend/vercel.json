@@ -1,0 +1,8 @@
+{
+  "git": {
+    "productionBranch": "rearchitect"
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
